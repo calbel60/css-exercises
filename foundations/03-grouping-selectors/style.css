@@ -1,0 +1,14 @@
+.el-1 {
+    background-color: hsl(1, 0%, 0%);
+    color: #ffffff;
+    font-weight: 900;
+}
+
+.el-2 {
+    background-color: rgb(218, 253, 18);
+}
+
+.el-1.el-2 {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
